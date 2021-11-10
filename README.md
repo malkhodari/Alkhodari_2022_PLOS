@@ -10,4 +10,6 @@ The "main_code" includes the following,
 5) Training of the CNN-BiLSTM neural network for the extraction of deep-activated features.
 6) Updating the parameters of the network with the best 20 hand-crafted features alongside age and sex.
 
+We also provide the full clinical profiles of patients and the short profiles (only age and sex) in .MAT format.
+
 For any questions, please do not hesitate to contact the corresponding author.
