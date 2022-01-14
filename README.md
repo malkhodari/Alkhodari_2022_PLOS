@@ -1,6 +1,6 @@
 # Detection of COVID-19 in smartphone-based breathing recordings: a pre-screening deep learning tool
 
-This repository includes all codes needed to reproduce the work presented at "Alkhodari M, Khandoker A. Detection of COVID-19 in smartphone-based breathing recordings: a pre-screening deep learning tool. PLOS One. 2021". 
+This repository includes all codes needed to reproduce the work presented at "Alkhodari M, Khandoker AH (2022) Detection of COVID-19 in smartphone-based breathing recordings: A pre-screening deep learning tool. PLOS ONE 17(1): e0262448. https://doi.org/10.1371/journal.pone.0262448". 
 
 The "main_code" includes the following,
 1) Loading shallow or deep breathing datasets (in .MAT format) - all resampled to 4,000 Hz (instead of the original 48,000.
